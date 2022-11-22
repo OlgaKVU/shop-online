@@ -1,0 +1,62 @@
+.blue{
+    background-color: whitesmoke;
+}
+
+img{
+    max-height: 20rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+.name-product{
+   text-align: center; 
+}
+
+.price-price{
+    text-align: center;
+}
+   .btn{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+  } 
+
+  button {
+    max-height: 20rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.8rem;
+    padding: 0.2rem;
+    margin: 0.1rem;
+    border-radius: 0.5rem;
+    border: 0.1rem #404040 solid;
+    background-color: #f0c040;
+    width: 20%;
+    cursor: pointer;
+  }
+  button.add {
+    background-color: #40c0f0;
+    width: 1.5rem;
+  }
+  button.add {
+    background-color: #40c0f0;
+    width: 1.5rem;
+  }
+  button.remove {
+    background-color: #f04040;
+    width: 1.5rem;
+  }
+  button.badge {
+    background-color: #f04040;
+    border: none;
+    color: #ffffff;
+    width: 1.5rem;
+  }
+  .text-right{
+    text-align: right;
+  }
